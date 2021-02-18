@@ -4,7 +4,7 @@
     {
       "source": {
         "git": {
-          "remote": "https://github.com/bitnami-labs/kube-libsonnet",
+          "remote": "https://github.com/bitnami-labs/kube-libsonnet.git",
           "subdir": ""
         }
       },
@@ -14,7 +14,7 @@
     {
       "source": {
         "git": {
-          "remote": "https://github.com/bitnami-labs/kubernetes-grafana-dashboards",
+          "remote": "https://github.com/bitnami-labs/kubernetes-grafana-dashboards.git",
           "subdir": ""
         }
       },
